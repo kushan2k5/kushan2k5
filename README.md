@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kushan Rana</h1>
+<h3 align="center">Aspiring Backend Developer | Java | Python | ML Enthusiast</h3>
 
-<!--
-**kushan2k5/kushan2k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BCA Student
+- 💻 Learning Backend Development
+- 🤖 Interested in Machine Learning
+- 🌱 Currently learning Java & Python
+
+---
+
+## 🛠️ Languages and Tools
+
+Java | Python | MySQL | HTML | CSS | Git | GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Kushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushan2k5&show_icons=true)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kushan2k5)
+
+---
+
+## 📫 Connect with me
+
+Email: your email
+LinkedIn: your link
